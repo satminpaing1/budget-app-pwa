@@ -1,0 +1,10 @@
+{
+  "name": "အိမ်သုံးစရိတ်",
+  "short_name": "အိမ်သုံးစရိတ်",
+  "description": "သင်၏နေ့စဉ်ဝင်ငွေ၊ ထွက်ငွေများကို စနစ်တကျ မှတ်သားနိုင်ရန် ကူညီပေးသော App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a7dff",
+  "scope": "."
+}
